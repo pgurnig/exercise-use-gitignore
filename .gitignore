@@ -1,12 +1,15 @@
 node_modules/
 
+.env, /artifacts/, z*
+
+* FIRST ACCEPTED ANSWER - NOW COMMENTED OUT
 # Edit the .gitignore file at the root of the repository so that it meets the following conditions:
 # Ignores all files starting with the letter z.
-z*
+# z*
 
 # Ignores a file called .env.
-.env
+# .env
 
 # Ignores a top-level directory named artifacts.
-/artifacts/
+# /artifacts/
 
